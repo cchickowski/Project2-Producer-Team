@@ -24,19 +24,19 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
      
      ii. Unnamed: 9
      
-     iii. Total Major 6
+    iii. Total Major 6
    
    b. Dropped characters from tables
         
-        i. c. Dollar signs
+      i. c. Dollar signs
        
-       ii. Commas
+     ii. Commas
       
-      iii. Percent signs
+    iii. Percent signs
     
-    c. Changed relevant objects to integers and floats
+   c. Changed relevant objects to integers and floats
    
-    d. Change headers to database rows
+   d. Change headers to database rows
 
 6. Create database connection to SQL using Postgres and load our dataframes into the database
 
