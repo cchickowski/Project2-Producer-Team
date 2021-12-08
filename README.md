@@ -36,7 +36,7 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
     
     c. Changed relevant objects to integers and floats
    
-   d. Change headers to database rows
+    d. Change headers to database rows
 
 6. Create database connection to SQL using Postgres and load our dataframes into the database
 
