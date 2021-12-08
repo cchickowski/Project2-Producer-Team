@@ -20,19 +20,19 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
    
    a. Dropped cells in tickets_df and wide_release_df
       
-      i. Unnamed: 5
+        i. Unnamed: 5
      
-     ii. Unnamed: 9
+       ii. Unnamed: 9
      
-     iii. Total Major 6
+      iii. Total Major 6
    
    b. Dropped characters from tables
         
-        i. c. Dollar signs
+         i. c. Dollar signs
        
-       ii. Commas
+        ii. Commas
       
-      iii. Percent signs
+       iii. Percent signs
     
     c. Changed relevant objects to integers and floats
    
