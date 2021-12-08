@@ -1,6 +1,6 @@
 # Project2-Producer-Team
 
-Project 2 - Producer Team
+Team Members:
 Prince Emenalo, Stormm Van Rooi, Corey Chickowski
 
 Proposal:
