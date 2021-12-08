@@ -18,7 +18,7 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
 
 5. Modify formatting of data to facilitate analysis
    
-   a. Dropped cells in tickets_df and wide_release_df
+  a. Dropped cells in tickets_df and wide_release_df
       
       i. Unnamed: 5
      
@@ -26,7 +26,7 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
      
     iii. Total Major 6
    
-   b. Dropped characters from tables
+  b. Dropped characters from tables
         
       i. c. Dollar signs
        
@@ -34,9 +34,9 @@ https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to
       
     iii. Percent signs
     
-    c. Changed relevant objects to integers and floats
+   c. Changed relevant objects to integers and floats
    
-    d. Change headers to database rows
+   d. Change headers to database rows
 
 6. Create database connection to SQL using Postgres and load our dataframes into the database
 
