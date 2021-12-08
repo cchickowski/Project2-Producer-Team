@@ -9,9 +9,13 @@ Hollywood Theatrical Market Synopsis 1995 to 2021
 https://www.kaggle.com/johnharshith/hollywood-theatrical-market-synopsis-1995-to-2021?select=HighestGrossers.csv
 
 1. Download CSVs from the described source above
+
 2. Read the CSVs into the jupyter notebook 
+
 3. Transform the imported data into Data Frames and manipulate the data into our desired format
+
 4. Check for duplicates in data and remove duplicates if necessary
+
 5. Modify formatting of data to facilitate analysis
     a. Dropped cells in tickets_df and wide_release_df
        i. Unnamed: 5
