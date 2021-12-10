@@ -53,7 +53,7 @@ Step 3: Begin Reading in CSV files for cleaning and formatting appropriate to ul
    a. "AnnualTicketSales" CSV file is read into pandas. Modifications and cleaning include dropping 'Unnamed 5' column, removing dollar signs and commas from data. Columns were also rennamed to lower case and spaces removed for SQL formatting.
    Screenshot of final clean data table:
 
-![Annual Ticket Sales Table](Images\Annual-Ticket-Sales.png)
+![Annual Ticket Sales Table](https://github.com/cchickowski/Project2-Producer-Team/blob/main/Images/Annual-Ticket-Sales.png)
 
    b. "HighestGrossers" CSV file is read into pandas. Modifications and cleaning include removing dollar signs and commas from data. Columns were also rennamed to lower case and spaces removed for SQL formatting. 
    Screenshot of final clean data table: 
